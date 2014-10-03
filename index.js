@@ -45,7 +45,7 @@ function Showall(){
               };
               process.exit(0);
             }else{
-              console.log("wait for ready");
+              //console.log("wait for ready");
               return;
             }
 }
